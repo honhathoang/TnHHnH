@@ -1,0 +1,9 @@
+C:\Program Files (x86)\EAGetMail\Samples_VS2012\GmailOAUTH.csharp\bin\Debug\GmailOAUTH.csharp.exe.config
+C:\Program Files (x86)\EAGetMail\Samples_VS2012\GmailOAUTH.csharp\bin\Debug\GmailOAUTH.csharp.exe
+C:\Program Files (x86)\EAGetMail\Samples_VS2012\GmailOAUTH.csharp\bin\Debug\GmailOAUTH.csharp.pdb
+C:\Program Files (x86)\EAGetMail\Samples_VS2012\GmailOAUTH.csharp\bin\Debug\EAGetMail45.dll
+C:\Program Files (x86)\EAGetMail\Samples_VS2012\GmailOAUTH.csharp\obj\Debug\GmailOAUTH.csharp.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\EAGetMail\Samples_VS2012\GmailOAUTH.csharp\obj\Debug\GmailOAUTH.csharp.Properties.Resources.resources
+C:\Program Files (x86)\EAGetMail\Samples_VS2012\GmailOAUTH.csharp\obj\Debug\GmailOAUTH.csharp.csproj.GenerateResource.Cache
+C:\Program Files (x86)\EAGetMail\Samples_VS2012\GmailOAUTH.csharp\obj\Debug\GmailOAUTH.csharp.exe
+C:\Program Files (x86)\EAGetMail\Samples_VS2012\GmailOAUTH.csharp\obj\Debug\GmailOAUTH.csharp.pdb

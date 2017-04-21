@@ -1,3 +1,4 @@
+#commit lan 1
 echo "Nhap n: "
 read n
 
@@ -37,3 +38,4 @@ do
 
 done
 echo "TONG LA $sum"
+#commit lan 2, sap xep
